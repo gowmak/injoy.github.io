@@ -1,0 +1,47 @@
+body{
+    background: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3{
+    color: white;
+    margin: 0;
+}
+h2{
+    padding: 10px 10px;
+}
+.wrap{
+    margin: 0 auto;
+    max-width: 500px;
+    
+}
+header{
+    
+}
+.con-wrap{
+    text-align: center;
+    
+}
+
+img{
+    width: 100%;
+}
+.dlink{
+    display: block;
+    
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.ad{
+    
+    height: 500px;
+    
+}
+header, footer, .dlink{
+    
+    background: #ED4B4B;
+}
